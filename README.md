@@ -5,6 +5,10 @@ Demo
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_RzTsiJ2hTA/0.jpg)](http://www.youtube.com/watch?v=_RzTsiJ2hTA)
 
+install module :
+
+$>npm install --save axios body-parser express hbs
+
 run app : 
 
 $>node index.js
