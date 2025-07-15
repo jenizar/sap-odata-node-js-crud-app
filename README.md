@@ -5,6 +5,9 @@ Demo
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_RzTsiJ2hTA/0.jpg)](http://www.youtube.com/watch?v=_RzTsiJ2hTA)
 
+run app : 
+
+$>node index.js
 
 ![alt text](https://github.com/jenizar/sap-odata-node-js-crud-app/blob/main/screenshots/pic1.png)
 
