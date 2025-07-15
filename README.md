@@ -27,7 +27,7 @@ curl -X POST "http://vhcala4hci:50000/sap/opu/odata/sap/YPEGAWAI_SRV/PEGAWAISet"
      -d '{"Empid": "00000104",
   "Empname": "Ferry Chen",
   "Emppost": "Marketing Manager",
-  "Empphoto": "https://github.com/jenizar/sap-odata-python-crud-app/blob/main/images/pria4.png?raw=true"
+  "Empphoto": "https://github.com/jenizar/sap-odata-node-js-crud-app/blob/main/images/pic4.png?raw=true"
 }' \
      -v
 
